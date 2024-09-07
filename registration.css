@@ -1,0 +1,77 @@
+     body
+    {
+        background-image: url('https://img.freepik.com/free-vector/realistic-style-technology-particle-background_23-2148426704.jpg');
+        background-repeat: no-repeat;
+        background-attachment: fixed;  
+        background-size: cover;
+    }
+
+    .up
+    {
+        text-size-adjust: 50 px;
+        text-align: centre;
+        font-style: obliqu;
+        color: white;
+    }
+    
+   .container 
+    {
+        width: 300px;
+        padding: 16px;
+        margin: 0 auto;
+        margin-top: 100px;
+        text-align: center;   
+    }
+    
+    input[type=text], input[type=name]
+    {       
+        width: 100%;
+        padding: 12px 20px;
+        margin: 8px 0;
+        display: inline-block;
+        border: 1px solid #ccc;
+        box-sizing: border-box;
+        text-decoration-color: whitesmoke;
+    }
+
+    input[type=tel]
+    {
+        width: 100%;
+        padding: 12px 20px;
+        margin: 8px 0;
+        display: inline-block;
+        border: 1px solid #ccc;
+        box-sizing: border-box;
+    }
+
+    input[type=e-mail]
+    {
+        width: 100%;
+        padding: 12px 20px;
+        margin: 8px 0;
+        display: inline-block;
+        border: 1px solid #ccc;
+        box-sizing: border-box;
+    }
+
+    input[type=date]
+    {
+        width: 100%;
+        padding: 12px 20px;
+        margin: 8px 0;
+        display: inline-block;
+        border: 1px solid #ccc;
+        box-sizing: border-box;
+    }
+    
+    button 
+    {
+        background-color: #4CAF50;
+        color: white;
+        padding: 14px 20px;
+        margin: 8px 0;
+        border: none;
+        cursor: pointer;
+        width: 100%;
+    }
+    

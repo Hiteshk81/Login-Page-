@@ -1,0 +1,51 @@
+    body
+    {
+        background-image: url('https://img.freepik.com/free-vector/realistic-technology-particle-background_23-2148409680.jpg?w=1060&t=st=1703266771~exp=1703267371~hmac=312b31d07b5c07d82fa4025a92d3652e15a6b22cf4f1c59946e446a00dd62a84');
+        background-repeat: no-repeat;
+        background-attachment: fixed;  
+        background-size: cover;
+    }
+    
+   .container 
+    {
+        width: 300px;
+        padding: 16px;
+        margin: 0 auto;
+        margin-top: 100px;
+        text-align: center;   
+    }
+    
+    input[type=text], input[type=password]
+    {       
+        width: 100%;
+        padding: 12px 20px;
+        margin: 8px 0;
+        display: inline-block;
+        border: 1px solid #ccc;
+        box-sizing: border-box;
+        text-decoration-color: whitesmoke;
+    }
+
+       button 
+    {
+        background-color: #4CAF50;
+        color: white;
+        padding: 14px 20px;
+        margin: 8px 0;
+        border: none;
+        cursor: pointer;
+        width: 100%;
+    }
+
+    #inline-block
+    {
+        text color: white;
+    }
+
+    .up
+    {
+        font-size: 30px;
+        text-align: center;
+        color:antiquewhite; 
+    }
+    
